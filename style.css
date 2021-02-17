@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background: skyblue;
+}
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid blueviolet;
+    color: whitesmoke;
+}
